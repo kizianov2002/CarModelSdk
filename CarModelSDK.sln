@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarModelSDK", "CarModelSDK.vcxproj", "{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		+дебаг|x64 = +дебаг|x64
+		+дебаг|x86 = +дебаг|x86
+		+релиз|x64 = +релиз|x64
+		+релиз|x86 = +релиз|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+дебаг|x64.ActiveCfg = +дебаг|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+дебаг|x64.Build.0 = +дебаг|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+дебаг|x86.ActiveCfg = +релиз|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+дебаг|x86.Build.0 = +релиз|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+релиз|x64.ActiveCfg = +релиз|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+релиз|x64.Build.0 = +релиз|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+релиз|x86.ActiveCfg = +релиз|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.+релиз|x86.Build.0 = +релиз|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Debug|x64.ActiveCfg = Debug|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Debug|x64.Build.0 = Debug|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Debug|x86.Build.0 = Debug|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Release|x64.ActiveCfg = Release|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Release|x64.Build.0 = Release|x64
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Release|x86.ActiveCfg = Release|Win32
+		{EF74E3E0-8667-4BE6-8386-8AB1505F4FD6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA4BB96-7813-4CC3-9201-E7286CE1E33C}
+	EndGlobalSection
+EndGlobal
